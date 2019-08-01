@@ -1,4 +1,6 @@
-# Chess_Univesity
-Simple chess application with no AI written using C++ and SFML
+# Chess
+My university project - simple implementation of chess gameplay (C++, SFML as render engine)
 
-Made in 2017 by Alexey Larionov during the C++ OOP course in Saint-Peterburg Peter the Great Polytechnic University.
+Features parsing of configuration file, UI following simple design patterns, rendering of interactive chess board, controlling the game progress
+
+Made in 2017 by Aleksey Larionov during the C++ OOP course in Saint-Peterburg Peter the Great Polytechnic University.
